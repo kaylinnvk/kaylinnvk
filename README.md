@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">🎓 Computer Science and Engineering @ CUHKSZ (Second Year)<br>💻 Head of Progressive Innovation Division @ MTI PPI Tiongkok</p>
+<p align="left">🎓 Computer Science and Engineering @ CUHKSZ</p>
 
 ###
 

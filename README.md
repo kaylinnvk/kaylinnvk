@@ -17,6 +17,9 @@
 ###
 
 <p align="left">🎓 Computer Science and Engineering @ CUHKSZ</p>
+<p align="left">🌊 Interested in Deep Learning, Computer Vision, NLP, and Avatar: The Last Airbender</p>
+
+<img src="koi/koi.gif" width="256" alt="My koi" />
 
 ###
 
